@@ -36,7 +36,7 @@ more:
 
 ### Supported Systems
 
-- Windows x86 (32-bit or 64-bit)
+- Windows x86 (32-bit)
 
 
 THX!
