@@ -39,4 +39,4 @@ more:
 - Windows x86 (32-bit)
 
 
-THX!
+Viel Spaß!
