@@ -4,8 +4,6 @@
 _ReSharper.*/
 *.sdf
 obj/
-Debug/
-Release/
 *.opensdf
 *.tlog
 *.log
