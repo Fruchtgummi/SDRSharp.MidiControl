@@ -10,6 +10,7 @@ namespace SDRSharp.MidiControl
         private int _stepsize;
         private int _audiogain;
         private int _bandbreite;
+        private bool _startstop;
 
 
         public MidiEntry() { }
@@ -22,7 +23,15 @@ namespace SDRSharp.MidiControl
             _audiogain = midiEntry._audiogain;
             _bandbreite = midiEntry._bandbreite;
             _detectorType = midiEntry._detectorType;
+            _startstop = midiEntry._startstop;
 
+        }
+
+        public bool Startstop
+        {
+
+            get { return _startstop; }
+            set { _startstop = value; }
         }
 
         public DetectorType DetectorType
