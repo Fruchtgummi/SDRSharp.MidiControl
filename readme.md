@@ -4,6 +4,16 @@ SDRSharp.MidiControl Plugin for SDRSharp
 A plugin for SDRSharp. For more informationen & download by [airspy.com](http://airspy.com/download/) It's free! 
 You can use the SDRSharp GUI with the Hercules DJControls. 
 
+# Install
+
+Copy SDRSharp.MidiControl.dll and Toolkit in your SDRSharp directory and edit plugins.xml and add
+
+<sharpPligins> 
+```
+    <add key="Midi Control" value="SDRSharp.MidiControl.MidiControlPlugin,SDRSharp.MidiControl" />
+```
+</sharpPlugins>
+
 ### Features - currently works:
 
 - DeckA is VFO
