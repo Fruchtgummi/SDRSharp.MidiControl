@@ -16,6 +16,7 @@ this line
     <add key="Midi Control" value="SDRSharp.MidiControl.MidiControlPlugin,SDRSharp.MidiControl" />
 ```
 
+Test on SDRSharp version 1.0.0.1491
 
 ### Features - currently works:
 
