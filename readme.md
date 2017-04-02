@@ -22,12 +22,13 @@ this line
 - DeckA is VFO
 - DeckB is Bandwidth
 - Volume (AudioGain)
+- Fine-Tuning with VFO & Panel
+- Radio on/of with Pich-Reset
+- Change Band-Type with Right-Pitch
 
 ### Next
 
-- StepSize
-- Start/stop SDR
-- Select RadioType
+- perfuse ;)
 
 
 ## Development 
