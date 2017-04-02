@@ -6,13 +6,14 @@ You can use the SDRSharp GUI with the Hercules DJControls.
 
 # Install
 
-Copy SDRSharp.MidiControl.dll and Toolkit in your SDRSharp directory and edit plugins.xml and add
+Copy SDRSharp.MidiControl.dll and Toolkit in your SDRSharp directory and edit plugins.xml and add on block: 
 
-<sharpPligins> 
+```<sharpPlugins>``` 
+
 ```
     <add key="Midi Control" value="SDRSharp.MidiControl.MidiControlPlugin,SDRSharp.MidiControl" />
 ```
-</sharpPlugins>
+
 
 ### Features - currently works:
 
