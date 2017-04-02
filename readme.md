@@ -45,7 +45,6 @@ and https://github.com/aruss/Sanford.MidiToolkit
 more:
 
 - NET. 3.5
-- SRDLL.dll http://pe0fko.nl/CFGSR/ 
 
 ### Supported Systems
 
