@@ -29,7 +29,8 @@ Test on SDRSharp version 1.0.0.1491
 
 ### Next
 
-- perfuse ;)
+- table for own configuration to assign knobs, panels and trackbars.
+- config-templates for different control hardware.
 
 
 ## Development 
