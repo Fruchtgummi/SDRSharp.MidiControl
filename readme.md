@@ -20,10 +20,10 @@ Test on SDRSharp version 1.0.0.1491
 
 ### Features - currently works:
 
-- DeckA is VFO
+- DeckA is VFO (turn-speed set bandwidth )
 - DeckB is Bandwidth
 - Volume (AudioGain)
-- Fine-Tuning with VFO & Panel
+- Fine-Tuning (speed of DeckA set stepsize)
 - Radio on/of with Pich-Reset
 - Change Band-Type with Right-Pitch
 
